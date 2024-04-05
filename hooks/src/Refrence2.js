@@ -8,10 +8,10 @@ function Refrence2()
     const inputEmail = useRef("");
     const inputMobileNo = useRef("");
 
-    const [name,setName] =useState("Hetasvi ");
+    const [name,setName] =useState("Hetanshree ");
     const [city,setCity] =useState("Rajkot");
     const [email,setEmail] =useState("@gmail.com ");
-    const [mobileNo,setMobileNo] =useState("1234567890");
+    const [mobileNo,setMobileNo] =useState("1234567893");
 
     function handlingInput(e)
     {
